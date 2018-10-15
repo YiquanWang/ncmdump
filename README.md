@@ -11,7 +11,7 @@
 <br />（你用C++版本可以用OpenSSL库或者Crypto++库，也可以手写AES128 ECB算法，然后再用JSON解析专辑名之类的）
 
 ```
-pip(3) install pycrypto
+pip install pycryptodome
 ```
 
 ## 嘤嘤嘤
